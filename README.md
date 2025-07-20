@@ -57,4 +57,5 @@ This project presents a dynamic Power BI dashboard built to analyze pizza sales 
 
 - Pizza_Sales_Dashboard.pbix : Power BI dashboard file
 - pizza_sales : Source dataset used in the dashboard
+- README.md – Complete project documentation
 
